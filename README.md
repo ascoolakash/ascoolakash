@@ -13,7 +13,7 @@ _Tech Stack:_ Tensorflow, Python Dash, Flask, Pytorch, Heroku, AWS.
 
 _Tech Stack:_ Tensorflow, Spacy, NLTK, ReExp
 
-###SKILLS 
+### SKILLS 
 
 **Programming Languages**: Python, SQL, R, PL SQL, Java, C, C++, Shell Script, Scala, JavaScript, SAS, MATLAB
 
