@@ -9,7 +9,7 @@ I'm a Data Scientist Practioner, Machine Learning Engineer and Researcher who li
 
 _Tech Stack:_ Tensorflow, Python Dash, Flask, Pytorch, Heroku, AWS. 
 
-[**COVAT**]() - Knowledge Graph to predict the best vaccine for the COVID-19 candidates. This project aims to help predict the best vaccine possible in the clinical or preclinical stage. Knowledge graph created by extracting data from the U.S. Nation Library of Medicine. 
+[**COVAT**](https://github.com/ascoolakash/covat) - Knowledge Graph to predict the best vaccine for the COVID-19 candidates. This project aims to help predict the best vaccine possible in the clinical or preclinical stage. Knowledge graph created by extracting data from the U.S. Nation Library of Medicine. 
 
 _Tech Stack:_ Tensorflow, Spacy, NLTK, ReExp
 
