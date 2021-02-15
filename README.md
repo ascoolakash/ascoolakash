@@ -1,6 +1,6 @@
 ### Hi there, I'm Akash. 👋
 
-I'm a Data Scientist Practioner, Machine Learning Engineer and Researcher who likes to work on personalize buisness domian problem. I've keen interest in client handling, business improvement, and statistics. I used to work with problems related to predictive modeling, personalization and recommendation systems. I have vast knowledge of machine learning algorithms which helps me choose the best approach. Apart from that, I enjoy traveling, meeting new people, cooking food, and trained flute player. 
+I'm a Data Scientist Practitioner, Machine Learning Engineer and Researcher who likes to solve business problems. I've keen interest in client handling, business improvement, and statistics. I used to work with issues related to predictive modelling, personalization and recommendation systems. I have vast knowledge of machine learning algorithms which helps me choose the best approach. Apart from that, I enjoy travelling, meeting new people, cooking food, and I am a trained flute player. 
 
 ## 🔭 My current working are ...
 
